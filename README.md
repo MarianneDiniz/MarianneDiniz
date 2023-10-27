@@ -2,8 +2,8 @@
 
 
 ## Olá! Eu sou Marianne Diniz 🖐️
-###  professora e pesquisadora com foco em Python, Ciência de Dados e Inteligência Artificial. 
-### Tenho paixão por explorar dados, desenvolver modelos de Machine Learning e compartilhar conhecimento com a comunidade.
+## Professora e pesquisadora com foco em Python, Ciência de Dados e Inteligência Artificial. 
+## Tenho paixão por explorar dados, desenvolver modelos de Machine Learning e compartilhar conhecimento com a comunidade.
 
 
 ![Marianne GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianneDiniz&show_icons=true&theme=dracula&count_private=true)
@@ -19,7 +19,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonada por tecnologia e educação.
 <!--
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
